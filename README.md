@@ -6,18 +6,18 @@ To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 Anaconda - Python 3.7
 
 ## Algorithm:
+
 ### Step1:
-## Step1:
 Import the necessary modules.
 
-## Step2:
+### Step2:
 For performing edge detection on a image.
 
 Sobel
 Laplacian
 Canny
 
-## Step3:
+### Step3:
 Display all the images with their respective edge detected images.
 
  
